@@ -37,6 +37,7 @@ app.get("/books", (req, res) => {
   ]);
 });
 
+//Check out "localhost:3000/api-docs/" for Swagger API page.
 app.listen(3000, () => {
   console.log("Running on port 3000!");
 });
