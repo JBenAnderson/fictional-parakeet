@@ -1,0 +1,25 @@
+{
+  "name": "fictional-parakeet",
+  "version": "1.0.0",
+  "description": "auto doc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBenAnderson/fictional-parakeet.git"
+  },
+  "author": "JBenAnderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JBenAnderson/fictional-parakeet/issues"
+  },
+  "homepage": "https://github.com/JBenAnderson/fictional-parakeet#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}

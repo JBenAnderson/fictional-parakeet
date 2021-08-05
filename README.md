@@ -1,2 +1,3 @@
 # fictional-parakeet
-Learn Swagger and create a "Hello World" application
+
+Learning Swagger
